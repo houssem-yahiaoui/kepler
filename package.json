@@ -1,0 +1,9 @@
+{
+  "name": "kepler",
+  "version": "0.0.1",
+  "description": "Kepler is your next door in local event Call for Paper manager",
+  "main": "index.js",
+  "repository": "https://github.com/houssem-yahiaoui/kepler.git",
+  "author": "Houssem Yahiaoui <houssem.yahiaoui.ai@gmail.com>",
+  "license": "MIT"
+}
